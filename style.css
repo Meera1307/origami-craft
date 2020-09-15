@@ -9,16 +9,35 @@ background-color: thistle;
 border: solid;
 border-color: cyan; 
 border-width: 8px;
+margin-bottom: 10px;
+margin-right: 10px;
+padding: 50px;
+top: 50%;
 }
 
 .d{
 border: solid;
 border-color: paleturquoise; 
-border-width: 8px;    
+border-width: 8px; 
+margin-bottom: 10px;
+margin-right: 10px;
+padding: 50px;
+top: 50%;   
 }
 
 .p{
-    border: solid;
-    border-color:mediumslateblue; 
-    border-width: 8px;
+border: solid;
+border-color:mediumslateblue; 
+border-width: 8px;
+margin-bottom: 10px;
+margin-right: 10px;
+padding: 50px;
+top: 50%;
+left: 50%;
+}
+a:link{
+color: plum;
+}
+a:visited{
+color: salmon;
 }
